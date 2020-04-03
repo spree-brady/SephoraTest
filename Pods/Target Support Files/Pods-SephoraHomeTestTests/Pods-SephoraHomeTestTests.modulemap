@@ -1,0 +1,6 @@
+framework module Pods_SephoraHomeTestTests {
+  umbrella header "Pods-SephoraHomeTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
